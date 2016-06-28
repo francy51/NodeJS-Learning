@@ -1,6 +1,7 @@
 {
   "name": "learningnodejs",
   "version": "1.0.0",
+  "private": true,
   "description": "Me learning noe js over the summer",
   "main": "server.js",
   "dependencies": {
